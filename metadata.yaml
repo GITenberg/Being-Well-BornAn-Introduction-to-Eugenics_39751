@@ -1,0 +1,41 @@
+_repo: Being-Well-BornAn-Introduction-to-Eugenics_39751
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39751-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Guyer, Michael F. (Michael Frederic)
+    alias: Guyer, Michael Frederic
+    birthdate: 1874
+    deathdate: 1959
+    gutenberg_agent_id: '40200'
+    url: http://www.gutenberg.org/2009/agents/40200
+  editor:
+    agent_name: O'Shea, M. V. (Michael Vincent)
+    alias: O'Shea, Michael Vincent
+    birthdate: 1866
+    deathdate: 1932
+    gutenberg_agent_id: '7221'
+    url: http://www.gutenberg.org/2009/agents/7221
+description: ''
+gutenberg_issued: '2012-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39751'
+  lccn: '16002623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Genetics'
+- !lcsh 'Eugenics'
+- !lcc 'HQ'
+tableOfContents: Heredity -- The bearers of the heritage -- Mendelism -- Mendelism
+  in man -- Are modifications acquired directly by the body inherited? -- Prenatal
+  influences -- Responsibility for conduct -- Mental and nervous defects -- Crime
+  and delinquency -- Race betterment through heredity -- Glossary -- References for
+  further reading and study -- Index.
+title: 'Being Well-Born: An Introduction to Eugenics'
+url: http://www.gutenberg.org/ebooks/39751
